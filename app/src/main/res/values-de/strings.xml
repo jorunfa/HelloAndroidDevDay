@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mein App</string>
+    <string name="hello_something">Guten Tag, %1$s!</string>
+    <string name="world">Welt</string>
+    <string name="name">Name</string>
+</resources>
